@@ -6,6 +6,6 @@ The application searches for hotels in a given radius from the users location. T
   - hotels are loaded on startup from a hotels.json file located in the resources folder; there is duplication protection on restart 
   - the server expects a postgres database; the name. port, user and password of this database can be found and modified in the application.properties
 ## ReactJS Frontend
-  - it is what it is
-  - npm start it
+- npm install -> npm start it
+- it is what it is
 
